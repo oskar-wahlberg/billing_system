@@ -1,7 +1,9 @@
 package system.billing.owg.id21;
 
+import system.billing.owg.id21.Graphics;
+
 public class BillingSystem {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Graphics graphics = new Graphics();
     }
 }
