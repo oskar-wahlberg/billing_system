@@ -1,2 +1,2 @@
-# billing-system
+# Billing System
 Basic Billing System
